@@ -1,1 +1,1 @@
-# linux-bash-theme
+# My terminal appearance
